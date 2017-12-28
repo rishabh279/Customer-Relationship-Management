@@ -1,0 +1,1 @@
+This is simple application built with the aim to illustrate CRUD features through spring and hibernate.
